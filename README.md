@@ -6,7 +6,6 @@ This project applies a privacy filter to faces in an image by detecting and blur
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Introduction
 This project is designed to automatically detect faces in an image and apply a Gaussian blur to obscure them, preserving privacy. It uses pre-trained `Cascade` classifiers from `scikit-image` to locate faces and applies image processing techniques to blur the detected regions.
